@@ -9,15 +9,16 @@ The goal was to build a solid foundation in native web technologies before intro
 
 ## Live Demo
 
-[Live Site Link (if deployed)]
+https://praj-uppal.github.io/HTML-CSS-Only-Website/
 
+*May Require Refreshing To Load Properly*
 ---
 
 ## Video Demonstration
 
 A short walkthrough of the website and its interactive elements can be found here:
 
-[YouTube Demonstration Link]
+(https://www.youtube.com/watch?v=IFII9Y2Jf8U)
 
 The video highlights:
 
@@ -100,13 +101,6 @@ HTML-CSS-Only-Website/
 │── css/ % Stylesheets
 │── assets/ % Images and static assets
 │── README.md
-
-
----
-
-## Screenshots
-
-[Add screenshots here]
 
 ---
 
