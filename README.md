@@ -99,9 +99,9 @@ These effects were designed to improve user feedback and visual clarity while re
 ```
 HTML-CSS-Only-Website/
 │── index.html % Main HTML document
-│── css/ % Stylesheets
-│── assets/ % Images and static assets
-│── README.md
+│── src/ % Stylesheets & Pages
+│── Media/ % Images and static assets
+│── README.md        
 ```
 ---
 
