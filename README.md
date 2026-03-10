@@ -107,9 +107,9 @@ HTML-CSS-Only-Website/
 ## Screenshots
 
 **Page Examples:**
-![Gameplay Screenshot](media/Images/Screenshot2.png)
-![Gameplay Screenshot](media/Images/Screenshot3.png)
-![Gameplay Screenshot](media/Images/Screenshot1.png)
+![Page2 Screenshot](Media/Images/Screenshot2.png)
+![Page3 Screenshot](Media/Images/Screenshot3.png)
+![Page1 Screenshot](Media/Images/Screenshot1.png)
 
 ---
 
