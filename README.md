@@ -96,12 +96,13 @@ These effects were designed to improve user feedback and visual clarity while re
 ---
 
 ## Project Structure
+```
 HTML-CSS-Only-Website/
 │── index.html % Main HTML document
 │── css/ % Stylesheets
 │── assets/ % Images and static assets
 │── README.md
-
+```
 ---
 
 ## Screenshots
